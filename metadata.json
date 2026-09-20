@@ -1,0 +1,6 @@
+{
+  "name": "Turing",
+  "description": "Elite text-first double-blind social discovery with progressive reveal and AI calibration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
